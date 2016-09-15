@@ -25479,7 +25479,7 @@
 	'use strict';
 
 	var React = __webpack_require__(8);
-	var Nav = __webpack_require__(230);
+	var Navigation = __webpack_require__(230);
 
 	// var Main = React.createClass({
 	//   render: function () {
@@ -25503,7 +25503,7 @@
 	      React.createElement(
 	        'div',
 	        null,
-	        React.createElement(Nav, null),
+	        React.createElement(Navigation, null),
 	        React.createElement(
 	          'p',
 	          null,
@@ -25531,8 +25531,8 @@
 	var IndexLink = _require.IndexLink;
 
 
-	var Nav = React.createClass({
-	  displayName: 'Nav',
+	var Navigation = React.createClass({
+	  displayName: 'Navigation',
 
 	  render: function render() {
 	    return React.createElement(
@@ -25590,7 +25590,7 @@
 	    );
 	  }
 	});
-	module.exports = Nav;
+	module.exports = Navigation;
 
 /***/ },
 /* 231 */

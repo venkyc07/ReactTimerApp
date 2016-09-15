@@ -10,4 +10,8 @@
     display: inline;
     padding: 0px;
   }
+  .active-link {
+    color: $nav-text-color;
+    font-weight: bold;
+  }
 }

@@ -1,5 +1,4 @@
 var expect = require('expect');
-var $ = require('jquery');
 
 describe('App', () =>{
   it('should properly run tests', () => {
